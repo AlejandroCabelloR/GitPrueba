@@ -21,3 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('www.mihumanforce.com')
 
+WebUI.closeBrowser()
+
