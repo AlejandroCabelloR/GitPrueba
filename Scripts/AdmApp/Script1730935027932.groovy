@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Page_Portal - miHumanForce/a_Ingresar'))
 
-WebUI.delay(5)
+WebUI.delay(4)
 
 WebUI.click(findTestObject('Page_Portal - Dashboard/span_Volver al Portal'))
 
