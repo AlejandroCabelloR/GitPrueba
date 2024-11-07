@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+LoginLogout,Chrome 130.0.0.0,,,06-11-2024 20:25:38,06-11-2024 20:26:07,"29,211s",PASSED
+,,,,,,,
+Test Cases/Login,Chrome 130.0.0.0,,,06-11-2024 20:25:38,06-11-2024 20:25:59,"20,849s",PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,06-11-2024 20:25:38,06-11-2024 20:25:41,"2,589s",PASSED
+"navigateToUrl(""https://www.mihumanforce.cl/"")",Chrome 130.0.0.0,,,06-11-2024 20:25:41,06-11-2024 20:25:56,"15,054s",PASSED
+"click(findTestObject(""Object Repository/Page_miHumanForce - Login/label_Ingrese Cuenta de Usuario""))",Chrome 130.0.0.0,,,06-11-2024 20:25:56,06-11-2024 20:25:57,"0,794s",PASSED
+"setText(findTestObject(""Object Repository/Page_miHumanForce - Login/input_miHumanForce Cloud_P101_USERNAME""), ""10605466-5"")",Chrome 130.0.0.0,,,06-11-2024 20:25:57,06-11-2024 20:25:58,"0,805s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_miHumanForce - Login/input_METSO S.A_P101_PASSWORD""), ""BD7RouBgtIi/+RXZqglwkA=="")",Chrome 130.0.0.0,,,06-11-2024 20:25:58,06-11-2024 20:25:58,"0,593s",PASSED
+"click(findTestObject(""Object Repository/Page_miHumanForce - Login/button_Ingresar Portal HumanForce""))",Chrome 130.0.0.0,,,06-11-2024 20:25:58,06-11-2024 20:25:59,"0,670s",PASSED
+,,,,,,,
+Test Cases/Logout,Chrome 130.0.0.0,,,06-11-2024 20:25:59,06-11-2024 20:26:07,"8,093s",PASSED
+delay(4),Chrome 130.0.0.0,,,06-11-2024 20:25:59,06-11-2024 20:26:03,"4,107s",PASSED
+"click(findTestObject(""Object Repository/Page_Portal - miHumanForce/span_Salir""))",Chrome 130.0.0.0,,,06-11-2024 20:26:03,06-11-2024 20:26:06,"2,907s",PASSED
+closeBrowser(),Chrome 130.0.0.0,,,06-11-2024 20:26:06,06-11-2024 20:26:07,"0,823s",PASSED

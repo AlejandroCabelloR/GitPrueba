@@ -8,10 +8,10 @@
    <createdVersion>9.7.2</createdVersion>
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.7.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Archivo de programa 2\GitPrueba\GitPrueba.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\Ususario\Documents\Automatiza\Katalon Studio\prueba GIT\GitPrueba\GitPrueba.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

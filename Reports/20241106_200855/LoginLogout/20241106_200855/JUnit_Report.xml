@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="LoginLogout" time="23.893" tests="2" failures="0" errors="0">
+   <testsuite name="LoginLogout" tests="2" failures="0" errors="0" time="23.893" skipped="0" timestamp="06-11-2024T20:09:05" hostname="Ususario - automatizaACR" id="Test Suites/LoginLogout">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Ususario\\Documents\\Automatiza\\Katalon Studio\\prueba GIT\\GitPrueba\\Reports\\20241106_200855\\LoginLogout\\20241106_200855"/>
+         <property name="logFiles" value="C:\\Users\\Ususario\\Documents\\Automatiza\\Katalon Studio\\prueba GIT\\GitPrueba\\Reports\\20241106_200855\\LoginLogout\\20241106_200855\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Ususario - automatizaACR"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 130.0.0.0"/>
+         <property name="hostAddress" value="10.201.0.13"/>
+         <property name="sessionId" value="9b6a618b6d7151a6702de1eb3d04bb1f"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Login" time="14.847" classname="Test Cases/Login" status="PASSED">
+         <system-out><![CDATA[06-11-2024T20:09:05 - [TEST_CASE][PASSED] - Test Cases/Login: Test Cases/Login
+
+06-11-2024T20:09:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+06-11-2024T20:09:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+06-11-2024T20:09:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+06-11-2024T20:09:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+06-11-2024T20:09:08 - [TEST_STEP][PASSED] - navigateToUrl("https://www.mihumanforce.cl/"): Navigate to 'https://www.mihumanforce.cl/' successfully
+
+06-11-2024T20:09:17 - [MESSAGE][PASSED] - Navigate to 'https://www.mihumanforce.cl/' successfully
+
+06-11-2024T20:09:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_miHumanForce - Login/label_Ingrese Cuenta de Usuario")): Object: 'Object Repository/Page_miHumanForce - Login/label_Ingrese Cuenta de Usuario' is clicked on
+
+06-11-2024T20:09:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_miHumanForce - Login/label_Ingrese Cuenta de Usuario' is clicked on
+
+06-11-2024T20:09:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_miHumanForce - Login/input_miHumanForce Cloud_P101_USERNAME"), "10605466-5"): Text '10605466-5' is set on object 'Object Repository/Page_miHumanForce - Login/input_miHumanForce Cloud_P101_USERNAME'
+
+06-11-2024T20:09:19 - [MESSAGE][PASSED] - Text '10605466-5' is set on object 'Object Repository/Page_miHumanForce - Login/input_miHumanForce Cloud_P101_USERNAME'
+
+06-11-2024T20:09:19 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_miHumanForce - Login/input_METSO S.A_P101_PASSWORD"), "BD7RouBgtIi/+RXZqglwkA=="): Text ****** has been set on object 'Object Repository/Page_miHumanForce - Login/input_METSO S.A_P101_PASSWORD'
+
+06-11-2024T20:09:19 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_miHumanForce - Login/input_METSO S.A_P101_PASSWORD'
+
+06-11-2024T20:09:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_miHumanForce - Login/button_Ingresar Portal HumanForce")): Object: 'Object Repository/Page_miHumanForce - Login/button_Ingresar Portal HumanForce' is clicked on
+
+06-11-2024T20:09:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_miHumanForce - Login/button_Ingresar Portal HumanForce' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Logout" time="8.789" classname="Test Cases/Logout" status="PASSED">
+         <system-out><![CDATA[06-11-2024T20:09:20 - [TEST_CASE][PASSED] - Test Cases/Logout: Test Cases/Logout
+
+06-11-2024T20:09:20 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+06-11-2024T20:09:25 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+06-11-2024T20:09:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Portal - miHumanForce/span_Salir")): Object: 'Object Repository/Page_Portal - miHumanForce/span_Salir' is clicked on
+
+06-11-2024T20:09:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Portal - miHumanForce/span_Salir' is clicked on
+
+06-11-2024T20:09:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+06-11-2024T20:09:29 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[06-11-2024T20:09:05 - [TEST_SUITE][PASSED] - LoginLogout: Test Cases/Logout]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

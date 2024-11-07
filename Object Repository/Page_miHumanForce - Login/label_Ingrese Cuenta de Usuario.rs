@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Ingrese Cuenta de Usuario</name>
+   <tag></tag>
+   <elementGuidId>918a7cb5-cc0e-4208-9f9f-c962e3c68f1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P101_USERNAME_LABEL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='P101_USERNAME_LABEL']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Ingrese Cuenta de Usuario&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c2958fe5-a70e-4ff4-bcf4-326f751b48fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>P101_USERNAME</value>
+      <webElementGuid>b47534f5-241a-497e-8bb8-e77951021271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P101_USERNAME_LABEL</value>
+      <webElementGuid>4eb05b2a-ef61-48db-ba17-5276ab375168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Ingrese Cuenta de Usuario    </value>
+      <webElementGuid>459e66e5-230a-4726-a7c6-c3164eedb40a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P101_USERNAME_LABEL&quot;)</value>
+      <webElementGuid>f9b3a735-c4bd-40fb-8c94-95fea7eb5c83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='P101_USERNAME_LABEL']</value>
+      <webElementGuid>0e786ad8-c92f-4767-8301-39b90bd0c4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P101_USERNAME_CONTAINER']/label</value>
+      <webElementGuid>16945b12-9cc3-4bdd-94b6-43109cd1ecbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='miHumanForce Cloud'])[1]/following::label[1]</value>
+      <webElementGuid>cda8be04-a798-4583-b686-2a954c688c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logo Automatiza Cloud'])[1]/following::label[1]</value>
+      <webElementGuid>d5447a64-5cb8-4043-a148-07b40d5b2394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Empresa'])[1]/preceding::label[1]</value>
+      <webElementGuid>3ce82397-69ce-4acd-9197-0fd413822616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingrese Contraseña'])[1]/preceding::label[2]</value>
+      <webElementGuid>d671f288-3189-4628-a4b1-d1f2a1948202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ingrese Cuenta de Usuario']/parent::*</value>
+      <webElementGuid>fcfc58c9-fc68-4321-9883-5bd8f6d0f9ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/label</value>
+      <webElementGuid>257811e2-10cb-4539-9613-e88b8524d3e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'P101_USERNAME_LABEL' and (text() = '
+Ingrese Cuenta de Usuario    ' or . = '
+Ingrese Cuenta de Usuario    ')]</value>
+      <webElementGuid>df84228e-45c3-43f8-8c98-26619c3b1c0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

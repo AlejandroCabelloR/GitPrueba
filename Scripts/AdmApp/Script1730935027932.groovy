@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('Page_Portal - miHumanForce/a_Ingresar'))
 
-WebUI.navigateToUrl('www.mihumanforce.cl')
+WebUI.delay(5)
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Page_Portal - Dashboard/span_Volver al Portal'))
 
